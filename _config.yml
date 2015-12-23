@@ -1,0 +1,28 @@
+name: Minimalsoftware
+favicon: null
+layout_spectrum: 0.6384191489778459
+typography_spectrum: 0.7831966415978968
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.36987697752192616
+  lightness: 0.9085616653319448
+  saturation: 0.1117828250862658
+  rhythmicContrast: 0.6380588398315012
+purpose: []
